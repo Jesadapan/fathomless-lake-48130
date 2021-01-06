@@ -32,17 +32,31 @@
         h1{
              color: black;
           }
+        h2{
+          color: black;
+        } 
+        /*เกวลี สิทธิสมบูรณ์ 62101001
+          เจษฎาพันธ์ ผ่องเส้ง 62101696
+          ปาริชาติ ชูสิทธิ์ 62105960
+          ธัญลักษณ์ ขวดหรีม 62104153
+          ภคนันท์ หนูดำ 62116397*/
+      /*หน้าที่รับผิดชอบ
+        เกวลี ออกแบบและขึ้นโครงสร้าง
+        ปาริชาติ ใส่เนื้อหาปรับรูปแบบและlinkข้อมูล
+        เจษฎาพันธ์ หารูปใส่รูปและปรับแก้
+        ภคนันท์และธัญลักษณ์ ปรับสีและใส่โทนสีและแก้ปรับแก้บางจุด*/
     </style>
-      
+     
       <link rel="stylesheet" href="12345.css">
    </head>
+
    <body> 
     
     
-        <div class="header"text-align="center">
+        <div class="header"text-align="center" >
             <marquee scrollamount="15"> <u><center>
         <h1>Information Technology and Digital Innovation</h1>
-         <p>เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล</p></u></marquee>
+        <h2><p>เทคโนโลยีสารสนเทศและนวัตกรรมดิจิทัล</p></u></marquee></h2>
     </div>  </div></center>
 
     <div>
@@ -52,13 +66,13 @@
       
             <div class="s-container">
       <ul class="menu">
-      <a class="menu">Home</a></li>
-      <a class="menu"> Activity กิจกรรม</a>
-      <a class="menu">ชื่อหลักสูตร</a></li>
-      <a class="menu">ชื่อปริญญา</a></li>
-      <a class="menu">รายวิชาที่เปิด</a></li>
-      <a class="menu">จบแล้วทำอะไร</a></li>
-      <a class="menu">ช่องทางการติดต่อ</a>
+      <a class="menu"><u>Home</a></li></u>
+      <a class="menu"><u> Activity กิจกรรม</a></u>
+      <a class="menu"><u>ชื่อหลักสูตร</a></li></u>
+      <a class="menu"><u>ชื่อปริญญา</a></li></u>
+      <a class="menu"><u>รายวิชาที่เปิด</a></li></u>
+      <a class="menu"><u>จบแล้วทำอะไร</a></li></u>
+      <a class="menu"><u>ช่องทางการติดต่อ</a></u>
       </a></li>
       </ul>
       </div>
@@ -76,17 +90,17 @@
     <div class="text-center"></div>  
     
     <div class="carousel-item active">
-      <img src="https://informatics.wu.ac.th/wp-content/uploads/DSC_0949-1-1536x1024.jpg" alt="Los Angeles"  class="img-responvive" ">
+      <img src="https://informatics.wu.ac.th/wp-content/uploads/DSC_0949-1-1536x1024.jpg" width="100%">
       <div class="carousel-caption">
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="https://informatics.wu.ac.th/wp-content/uploads/79031011_2845642782126912_7858514546393088000_o.jpg" alt="Chicago" class="img-responvive" >
+      <img src="https://informatics.wu.ac.th/wp-content/uploads/79031011_2845642782126912_7858514546393088000_o.jpg" width="100%">
       <div class="carousel-caption">
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="https://informatics.wu.ac.th/wp-content/uploads/78130121_2845642588793598_8019024273177837568_o.jpg" alt="New York" class="img-responvive"  >
+      <img src="https://informatics.wu.ac.th/wp-content/uploads/78130121_2845642588793598_8019024273177837568_o.jpg" width="100%" >
       <div class="carousel-caption">
       </div>   
     </div>
@@ -99,9 +113,13 @@
   </a>
 </div>
 </div>
-
-   
+<br>
+<br>
+<br>   
 <h3>Activity กิจกรรม</h3>
+<br>
+<br>
+
 <center>
 <div class="row">
         <div class="col-md-4">
@@ -360,8 +378,8 @@
                       <div>
                       <footer>
                         
-                        <p class="footer"> © สาขาวิชาเทคโนโลยีสารสนเทศ สำนักวิชาสารสนเทศศาสตร์ มหาวิทยาลัยวลัยลักษณ์ 222 ตำบลไทยบุรี อำเภอท่าศาลา จังหวัดนครศรีธรรมราช 80160 โทรศัพท์ 66 7567 2206-7,66 7567 2281,66 7567 2296 โทรสาร 66 7567 2205 </p>
-                        <p class="footer">สนใจสมัครเรียน : อาจารย์ ดร. สลิล บุญพราหมณ์ 0-7567-2257, อาจารย์กาญจนา หฤหรรษพงศ์ 0-7567-2285 / webmaster team : อาจารย์ ดร. ณิชนันทน์ กิตติพัฒนบวร 0-7567-2281 , นางสาวจารุวรรณ ลักษณจันทร์ 0-7567-2296</p>
+                        <p class="footer">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© สาขาวิชาเทคโนโลยีสารสนเทศ สำนักวิชาสารสนเทศศาสตร์ มหาวิทยาลัยวลัยลักษณ์ 222 ตำบลไทยบุรี อำเภอท่าศาลา จังหวัดนครศรีธรรมราช 80160 โทรศัพท์ 66 7567 2206-7,66 7567 2281,66 7567 2296 โทรสาร 66 7567 2205 </p>
+                        <p class="footer">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;สนใจสมัครเรียน : อาจารย์ ดร. สลิล บุญพราหมณ์ 0-7567-2257, อาจารย์กาญจนา หฤหรรษพงศ์ 0-7567-2285 / webmaster team : อาจารย์ ดร. ณิชนันทน์ กิตติพัฒนบวร 0-7567-2281 , นางสาวจารุวรรณ ลักษณจันทร์ 0-7567-2296</p>
                       </footer>
                     </div>
                     </div></div>
