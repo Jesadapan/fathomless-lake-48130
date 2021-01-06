@@ -222,10 +222,10 @@
                   </div>
                   <div class="col-md-4">
                     <div class="thumbnail">
-                      <a href="3.jpg">
-                        <img src="3.jpg" alt="Fjords" style="width:100%">
+                      <a href="5.jpg">
+                        <img src="5.jpg" alt="Fjords" style="width:100%">
                         <div class="caption">
-                          <p>System Analysticsm</p>
+                          <p></p>Back-End Developer</p>
                         </div>
                       </a>
                     </div>
@@ -244,10 +244,10 @@
                   </div>
                   <div class="col-md-4">
                     <div class="thumbnail">
-                      <a href="5.jpg">
-                        <img src="5.jpg" alt="Nature" style="width:100%">
+                      <a href="3.jpg">
+                        <img src="3.jpg" alt="Nature" style="width:100%">
                         <div class="caption">
-                          <p>Back-End Developer</p>
+                          <p>System Analysticsm</p>
                         </div>
                       </a>
                     </div>
